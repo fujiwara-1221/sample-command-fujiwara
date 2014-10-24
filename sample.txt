@@ -19,4 +19,5 @@ aabbcccc
 ddd
 fuji
 fuji
+commit=ci
 
