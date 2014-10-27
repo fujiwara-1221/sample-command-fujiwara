@@ -23,5 +23,6 @@ commit=ci
 commit=cm
 issue2
 マージ
-
 編集
+issue2.1
+
