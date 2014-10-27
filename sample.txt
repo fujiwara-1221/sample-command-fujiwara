@@ -22,3 +22,4 @@ fuji
 commit=ci
 commit=cm
 issue2
+マージ
