@@ -35,3 +35,4 @@ wwww
 分岐
 分岐２
 sample2
+sample2commit
